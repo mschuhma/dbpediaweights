@@ -22,4 +22,4 @@ For loading the DBpedia2014 files into a mysql database, [create the tables](htt
 
 ## Recomputing the counts
 
-If you want to compute the counts yourself, run [this Java class](graphsm_wsdm/src/main/java/de/uma/dws/graphsm/webservice/DBPediaCreateTripleCountsTables.java) on a local Virtuoso DBpedia instance
+If you want to compute the counts yourself, run [this Java class](https://github.com/mschuhma/graphsm_wsdm/blob/master/src/main/java/de/uma/dws/graphsm/webservice/DBPediaCreateTripleCountsTables.java) on a local Virtuoso DBpedia instance
